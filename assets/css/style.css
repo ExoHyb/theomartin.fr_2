@@ -1,6 +1,1 @@
-/* line 1, ../scss/style.scss */
-body {
-  background: #1E1E1E;
-  color: #fff;
-  font-family: 'Inconsolata', monospace;
-}
+body{background:#1d1d1d;color:#fff;font-family:"Inconsolata",monospace;padding-top:1em}body #mt-hello{font-size:2.5rem;margin-bottom:0}body ul{padding-left:20px}body ul li{list-style:none;position:relative}body ul li:before{content:'';background:url(../../images/arrow-point-to-right.svg) no-repeat;background-size:cover;height:9px;width:9px;position:absolute;top:50%;transform:translateY(-50%);left:-20px}
